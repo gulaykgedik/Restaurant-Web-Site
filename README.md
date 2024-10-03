@@ -3,14 +3,14 @@
 # Restaurant Web Site
 <br>
 
-Bu proje, HTML, CSS ve Javascript kullanılarak oluşturulmuş bir Restaurant Web Site arayüzüdür.
+Bu proje, HTML5, CSS3 ve Javascript kullanılarak oluşturulmuş bir Restaurant Web Site arayüzüdür.
 
 # Özellikler
 <br>
 
 – Tamamen responsive tasarım
 
-– HTML, CSS, Js ile sıfırdan oluşturulmuş bileşenler
+– HTML5, CSS3, Js ile sıfırdan oluşturulmuş bileşenler
 
 – Ekran boyutlarına duyarlı yerleşim
 
